@@ -2,9 +2,9 @@ name:                Hbot
 version:             0.1.0.0
 github:              "githubuser/Hbot"
 license:             BSD3
-author:              "Author name here"
+author:              "xTeKc"
 maintainer:          "example@example.com"
-copyright:           "2021 Author name here"
+copyright:           "2021 xTeKc"
 
 extra-source-files:
 - README.md
@@ -21,6 +21,7 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- 
 
 library:
   source-dirs: src
